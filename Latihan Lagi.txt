@@ -1,0 +1,5 @@
+Halo my name is Jose.
+I live in Bandung.
+I born at Pontianak, 19 Februari 1999
+My activities for now is learning GitHub
+I am very excited to join Refactory as BackEnd Engineer ASAP
